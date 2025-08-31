@@ -3,7 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bueno-43823a358/)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAlex-full&theme=midnight-purple&show_icons=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&langs_count=8)
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
