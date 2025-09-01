@@ -6,6 +6,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAlex-full&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&layout=compact)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&langs_count=8) -->
+
+![snake gif](https://github.com/DevAlex-full/DevAlex-full/blob/output/github-contribution-grid-snake.svg)
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
