@@ -1,46 +1,47 @@
-# Nome da Actions:  
-name: Snake Game
+## ATENÇÃO O CÓDIGO ABAIXO DEVE SER COLADO DENTRO DO MAIN.YML
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
-on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
+nome: gerar animação
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+sobre:
+  # executar automaticamente a cada 24 horas
+  agendar:
+    - cron: "0 */24 * * *"
+  
+  # permite executar o trabalho manualmente a qualquer momento
+  fluxo de trabalho_despacho:
+  
+  # executar em cada push no branch master
+  empurrar:
+    galhos:
+    - mestre
+    
 
-# Regras
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
 
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: DevAlex-full #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
+empregos:
+  gerar:
+    permissões:
+      conteúdo: escrever
+    em execução: ubuntu-latest
+    tempo limite-minutos: 5
+    
+    passos:
+      # gera um jogo de cobra a partir do gráfico de contribuições de um usuário do github (<github_user_name>), gera uma animação svg em <svg_out_path>
+      - nome: gerar github-contribution-grid-snake.svg
+        usos: Platane/snk/svg-only@v3
+        com:
+          nome_de_usuário_github: ${{ github.repository_owner }}
+          saídas: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+      # envie o conteúdo de <build_dir> para uma ramificação
+      # o conteúdo estará disponível em https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file > ou como página do github
+      - nome: envie github-contribution-grid-snake.svg para o branch de saída
+        usos: crazy-max/ghaction-github-pages@v3.1.0
+        com:
+          target_branch: saída
+          diretório de compilação: dist
+        ambiente:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
