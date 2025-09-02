@@ -7,8 +7,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&layout=compact)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&langs_count=8) -->
 
-![snake gif](https://github.com/DevAlex-full/DevAlex-full/blob/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/DevAlex-full/DevAlex-full/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DevAlex-full/DevAlex-full/main/dist/snake.svg" alt="Snake animation" />
+</div>
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
