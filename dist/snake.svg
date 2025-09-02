@@ -1,9 +1,0 @@
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-      <rect width="800" height="200" fill="#0d1117"/>
-      <text x="400" y="100" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="24">
-        🐍 Snake Animation - DevAlex-full
-      </text>
-      <text x="400" y="130" text-anchor="middle" fill="#7c3aed" font-family="monospace" font-size="14">
-        Contribuições em GitHub
-      </text>
-    </svg>
