@@ -19,3 +19,5 @@
 ## Sobre mim 🎓
 
 Estudante de Tecnologia em Sistemas para Internet na UniFatecie, apaixonado por desenvolvimento web e tecnologia. Sempre em busca de novos desafios e oportunidades para aplicar conhecimentos em projetos práticos.
+
+![snake gif](https://github.com/DevAlex-full/DevAlex-full/blob/output/github-contribution-grid-snake.svg)
