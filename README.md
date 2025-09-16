@@ -59,9 +59,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alex.bueno22@hotmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/devalex_full/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alexander-bueno-43823a358/)
+  [![Gmail](https://img.shields.io/badge/Gmail-460066?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:alex.bueno22@hotmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-460066?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/devalex_full/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-460066?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/alexander-bueno-43823a358/)
   
 </div>
 <br>
