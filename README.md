@@ -72,7 +72,8 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevAlex-full&s=40&c=8000ff&bg=00000000&no=1&ff=digii&tb=PROFILE+VISITS%3A+&ta=" /></p> 
+  <p align="center"><img align="center" src="https://hits.sh/github.com/DevAlex-full.svg?style=plastic&label=Visits&color=44005c&labelColor=44005c&logo=Visits)](https://hits.sh/github.com/DevAlex-full/" /></p> 
+ <!-- <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDevAlex-full&s=40&c=8000ff&bg=00000000&no=1&ff=digii&tb=PROFILE+VISITS%3A+&ta=" /></p> -->
 </div>
 
 <br>
