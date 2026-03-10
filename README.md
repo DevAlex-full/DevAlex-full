@@ -18,7 +18,7 @@
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevAlex-full&theme=midnight_purple"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlex-full&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevAlex-full&theme=midnight_purple"/>
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevAlex-full&theme=midnight_purple"/>
