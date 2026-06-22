@@ -1,8 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=69239e&section=header&reversal=true&textBg=false"/>
-
-<!-- Depois que criar o banner, suba a imagem em assets/banner.png e descomente esta linha:
-<img width="100%" src="./assets/banner.png" alt="Alex Santiago - Full Stack Developer Banner"/>
--->
+<img width="100%" src="./assets/banner-github.png" alt="Alex Santiago - Full Stack Developer Banner"/>
 
 <br>
 
@@ -20,7 +16,7 @@
   <br>
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9615F7&center=true&width=700&lines=Be+Welcome!;I+am+from+Brazil;Full+Stack+Developer;Web+Systems+Architect;Automation+%26+AI+Agents;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9615F7&center=true&width=500&lines=Be+Welcome!;I+am+from+Brazil;Building+web+systems+and+automation;Full+Stack+Developer" alt="Typing SVG"/>
 
 </div>
 
@@ -41,29 +37,13 @@
 
 <br>
 
-<div align="center">
-
-## Desenvolvedor Full Stack • Sistemas Web • Automação • Agentes de IA
-
-</div>
-
-<br>
-
-<div align="center">
-
-<samp>
-Construção de sistemas web, dashboards administrativos, APIs, automações e plataformas sob medida para negócios reais.
-</samp>
-
-</div>
-
-<br>
-
 ## Sobre mim
 
 Sou desenvolvedor Full Stack brasileiro, focado na criação de **sistemas web completos**, **dashboards administrativos**, **APIs**, **automações**, **integrações** e **produtos digitais**.
 
-Atualmente trabalho com projetos usando **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, **Supabase**, **Prisma**, **Docker** e automações com **n8n**. Também desenvolvo soluções próprias como **BarberFlow**, **North**, **North Radar** e sistemas sob medida para clientes.
+Atualmente trabalho com projetos usando **React**, **Next.js**, **Node.js**, **TypeScript**, **PostgreSQL**, **Supabase**, **Prisma**, **Docker** e automações com **n8n**.
+
+Também desenvolvo soluções próprias como **BarberFlow**, **North**, **North Radar** e sistemas sob medida para clientes.
 
 Meu foco é transformar processos manuais em sistemas organizados, escaláveis e prontos para operação.
 
@@ -191,7 +171,7 @@ Meu foco é transformar processos manuais em sistemas organizados, escaláveis e
 <div align="center">
 
   <samp>
-    <b>Entre em contato comigo:</b>
+    <b>Entre em contato comigo</b>
   </samp>
 
   <br>
