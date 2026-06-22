@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=69239e&section=header&reversal=true&textBg=false"/>
 
+<!-- Depois que criar o banner, suba a imagem em assets/banner.png e descomente esta linha:
+<img width="100%" src="./assets/banner.png" alt="Alex Santiago - Full Stack Developer Banner"/>
+-->
+
 <br>
 
 <div align="center">
@@ -39,7 +43,7 @@
 
 <div align="center">
 
-## Full Stack Developer • Web Systems • Automation • AI Agents
+## Desenvolvedor Full Stack • Sistemas Web • Automação • Agentes de IA
 
 </div>
 
@@ -48,7 +52,7 @@
 <div align="center">
 
 <samp>
-Construo sistemas web, dashboards administrativos, APIs, automações e plataformas sob medida para negócios reais.
+Construção de sistemas web, dashboards administrativos, APIs, automações e plataformas sob medida para negócios reais.
 </samp>
 
 </div>
@@ -69,13 +73,13 @@ Meu foco é transformar processos manuais em sistemas organizados, escaláveis e
 
 <br>
 
-## Stack principal
+## Princípio da pilha
 
 <br>
 
 <div align="center">
 
-### Frontend
+### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-460066?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-460066?style=for-the-badge&logo=css3&logoColor=fff)
@@ -98,7 +102,7 @@ Meu foco é transformar processos manuais em sistemas organizados, escaláveis e
 
 <br>
 
-### Banco de dados e serviços
+### Banco de dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-460066?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-460066?style=for-the-badge&logo=supabase&logoColor=fff)
@@ -113,7 +117,7 @@ Meu foco é transformar processos manuais em sistemas organizados, escaláveis e
 
 <br>
 
-### DevOps, deploy e ferramentas
+### DevOps, implantação e ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-460066?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-460066?style=for-the-badge&logo=git&logoColor=fff)
@@ -144,74 +148,7 @@ Meu foco é transformar processos manuais em sistemas organizados, escaláveis e
 
 <br>
 
-## Projetos em destaque
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>North Radar</h3>
-      <p>Central operacional de agentes IA para análise de oportunidades, apoio comercial e arquitetura de software.</p>
-      <p>
-        <b>Stack:</b> TypeScript, React, SQLite, automação, agentes IA.
-      </p>
-      <a href="https://github.com/DevAlex-full/North-Radar">Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>North SDR</h3>
-      <p>Backend para automação comercial, gestão de leads, respostas assistidas e integração com fluxos n8n.</p>
-      <p>
-        <b>Stack:</b> Node.js, Fastify, Prisma, PostgreSQL, n8n.
-      </p>
-      <a href="https://github.com/DevAlex-full/North-SDR-N8N-Back">Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Projeto Fisioterapia</h3>
-      <p>Sistema web e painel administrativo para clínica de fisioterapia pós-cirúrgica plástica.</p>
-      <p>
-        <b>Stack:</b> React, TypeScript, TailwindCSS, SEO, CMS administrativo.
-      </p>
-      <a href="https://github.com/DevAlex-full/Projeto-Fisioterapia-P-s-Cirurgia-Plastica">Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>Fisioterapia Backend</h3>
-      <p>API REST para gerenciamento de conteúdo, autenticação e integrações do projeto de fisioterapia.</p>
-      <p>
-        <b>Stack:</b> Node.js, TypeScript, PostgreSQL, Prisma, Supabase.
-      </p>
-      <a href="https://github.com/DevAlex-full/fisioterapia-backend">Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Portfólio CMS</h3>
-      <p>Portfólio pessoal com painel administrativo para projetos, certificados, habilidades, serviços e leads.</p>
-      <p>
-        <b>Stack:</b> Next.js, React, TypeScript, TailwindCSS.
-      </p>
-      <a href="https://github.com/DevAlex-full/PORTFOLIO">Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h3>Portfólio Backend</h3>
-      <p>API backend do portfólio com autenticação, uploads, leads, projetos e integração com banco de dados.</p>
-      <p>
-        <b>Stack:</b> Node.js, Fastify, Prisma, PostgreSQL, Supabase.
-      </p>
-      <a href="https://github.com/DevAlex-full/portf-lio-backend">Ver repositório</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## GitHub Stats
+## Estatísticas do GitHub
 
 <br>
 
