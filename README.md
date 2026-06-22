@@ -27,34 +27,40 @@
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center">
 
-  <img width="40" title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img width="40" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="40" title="React Native" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="40" title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="40" title="Expo" alt="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-  <img width="40" title="Vite" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img width="40" title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img width="40" title="Fastify" alt="Fastify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-  <img width="40" title="Prisma" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img width="40" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="40" title="Supabase" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-  <img width="40" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="40" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img width="40" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img width="40" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img width="40" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <samp>
+    <b>Tech Stack</b>
+  </samp>
 
-  <img width="40" title="Vercel" alt="Vercel" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" />
-  <img width="40" title="Render" alt="Render" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" />
-  <img width="40" title="n8n" alt="n8n" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" />
+  <br>
+  <br>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-460066?style=for-the-badge&logo=html5&logoColor=fff)
+  ![CSS3](https://img.shields.io/badge/CSS3-460066?style=for-the-badge&logo=css3&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-460066?style=for-the-badge&logo=javascript&logoColor=fff)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-460066?style=for-the-badge&logo=typescript&logoColor=fff)
+  ![React](https://img.shields.io/badge/React-460066?style=for-the-badge&logo=react&logoColor=fff)
+  ![React Native](https://img.shields.io/badge/React_Native-460066?style=for-the-badge&logo=react&logoColor=fff)
+  ![Next.js](https://img.shields.io/badge/Next.js-460066?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+  ![Expo](https://img.shields.io/badge/Expo-460066?style=for-the-badge&logo=expo&logoColor=fff)
+  ![Vite](https://img.shields.io/badge/Vite-460066?style=for-the-badge&logo=vite&logoColor=fff)
+  ![Node.js](https://img.shields.io/badge/Node.js-460066?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+  ![Express](https://img.shields.io/badge/Express-460066?style=for-the-badge&logo=express&logoColor=fff)
+  ![Fastify](https://img.shields.io/badge/Fastify-460066?style=for-the-badge&logo=fastify&logoColor=fff)
+  ![Prisma](https://img.shields.io/badge/Prisma-460066?style=for-the-badge&logo=prisma&logoColor=fff)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-460066?style=for-the-badge&logo=postgresql&logoColor=fff)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-460066?style=for-the-badge&logo=mongodb&logoColor=fff)
+  ![Supabase](https://img.shields.io/badge/Supabase-460066?style=for-the-badge&logo=supabase&logoColor=fff)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-460066?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+  ![Docker](https://img.shields.io/badge/Docker-460066?style=for-the-badge&logo=docker&logoColor=fff)
+  ![Git](https://img.shields.io/badge/Git-460066?style=for-the-badge&logo=git&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-460066?style=for-the-badge&logo=github&logoColor=fff)
+  ![Figma](https://img.shields.io/badge/Figma-460066?style=for-the-badge&logo=figma&logoColor=fff)
+  ![Java](https://img.shields.io/badge/Java-460066?style=for-the-badge&logo=openjdk&logoColor=fff)
+  ![Vercel](https://img.shields.io/badge/Vercel-460066?style=for-the-badge&logo=vercel&logoColor=fff)
+  ![Render](https://img.shields.io/badge/Render-460066?style=for-the-badge&logo=render&logoColor=fff)
+  ![n8n](https://img.shields.io/badge/n8n-460066?style=for-the-badge&logo=n8n&logoColor=fff)
 
 </div>
 
